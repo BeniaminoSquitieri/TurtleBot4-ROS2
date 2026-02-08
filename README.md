@@ -3,8 +3,8 @@
 ## Warning
 
 About the QR Code detection and scan with BarCode library, you need a license key.
-We already requested and inserted inside the code a valid key on 9th of July, it should expire after 30 days.
-In case you could have problems with the validation key, we suggest to make a new request to Dynamsoft website.
+I already requested and inserted inside the code a valid key on 9th of July, it should expire after 30 days.
+In case you could have problems with the validation key, I suggest to make a new request to Dynamsoft website.
 
 ## Introduction
 
